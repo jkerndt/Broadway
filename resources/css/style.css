@@ -1,0 +1,34 @@
+body {
+  font-family: Helvetica;
+  text-align: center;
+}
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+ul {
+  font-size: 18px;
+  color: white;
+}
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+.processes {
+  font-size: 23px;
+  font-weight: bold;
+}
+p {
+  font-size: 14px;
+}
+.designed {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+h6 {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+}
