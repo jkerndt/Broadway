@@ -34,6 +34,7 @@ h6 {
   color: white;
   background-color: dimgray;
   font-weight: bold;
+  text-align: left;
 }
 .top {
   background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
